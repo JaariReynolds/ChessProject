@@ -1,0 +1,15 @@
+[submodule "ChessAPI"]
+	path = ChessAPI
+	url = https://github.com/JaariReynolds/ChessAPI.git
+[submodule "ChessLogic"]
+	path = ChessLogic
+	url = https://github.com/JaariReynolds/Chess.git
+[submodule "ChessBot"]
+	path = ChessBot
+	url = https://github.com/JaariReynolds/ChessBot.git
+[submodule "ChessFront"]
+	path = ChessFront
+	url = https://github.com/JaariReynolds/chess-front.git
+[submodule "ChessTestsBack"]
+	path = ChessTestsBack
+	url = https://github.com/JaariReynolds/ChessTests.git

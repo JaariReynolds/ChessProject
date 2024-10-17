@@ -1,0 +1,14 @@
+services:
+  chess-api:
+    build:
+      context: .
+      dockerfile: ChessAPI/Dockerfile
+    ports:
+      - "7179:80"  # Exposing the API on port 7179
+
+  chess-front:
+    build:
+      context: .
+      dockerfile: ChessFront/Dockerfile
+    ports:
+      - "5180:5180"  # Host port 5180 -> Container port 5180

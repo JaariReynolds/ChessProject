@@ -1,0 +1,10 @@
+# Ignore node_modules
+node_modules/
+# Ignore build files
+/ChessAPI/bin/
+/ChessAPI/obj/
+/ChessBot/node_modules/
+# Ignore any local config files or IDE settings
+*.suo
+*.user
+.vs/
