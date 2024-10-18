@@ -7,19 +7,15 @@ Make sure you have the following installed before proceeding:
 * [Git](https://git-scm.com/)
 
 ## Installation
-1. Clone repository: 
-* `git clone https://github.com/JaariReynolds/ChessProject.git`
+1. Clone the main repository with submodules: 
+* `git clone --recursive https://github.com/JaariReynolds/ChessProject.git`
 <br>
   
 2. Navigate to project directory:
 * `cd ChessProject`
 <br>
 
-3. Setup submodules:
-* `git submodule update --init --recursive`
-<br>
-
-4. Build and run using Docker: 
+3. Build and run using Docker: 
 * `docker-compose up --build`
 
 ## Usage
