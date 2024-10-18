@@ -1,4 +1,5 @@
-This is a Chess Project that includes a chess API, bot, logic, tests, and front-end interface for playing chess.
+This is a Chess Project that includes a chess API, bot, logic, tests, and front-end interface for playing chess. <br>
+All repos are still a work in progress, but the game logic (seems) to at least be correct.
 
 ## Installation
 Clone repository: 
@@ -14,6 +15,5 @@ Build and run using Docker:
 > docker-compose up --build
 
 ## Usage
-
 After running the project, you can access the front-end at `http://localhost:5180` and the API at `http://localhost:7179/swagger/index.html`
 
