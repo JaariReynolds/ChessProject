@@ -3,9 +3,8 @@ All repos are still a work in progress, but the game logic (seems) to at least b
 
 ## Prerequisites
 Make sure you have the following installed before proceeding:
-> [Docker](https://www.docker.com/)
-
-> [Git](https://git-scm.com/)
+* [Docker](https://www.docker.com/)
+* [Git](https://git-scm.com/)
 
 ## Installation
 Clone repository: 
@@ -21,5 +20,7 @@ Build and run using Docker:
 > docker-compose up --build
 
 ## Usage
-After running the project, you can access the front-end at `http://localhost:5180` and the API at `http://localhost:7179/swagger/index.html`
+After running the project, you can access:
+* The front-end at http://localhost:5180 
+* The API Swagger documentation at http://localhost:7179/swagger/index.html
 
