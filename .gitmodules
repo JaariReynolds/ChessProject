@@ -9,7 +9,7 @@
 	url = https://github.com/JaariReynolds/ChessBot.git
 [submodule "ChessFront"]
 	path = ChessFront
-	url = https://github.com/JaariReynolds/ChessFront.git
+	url = https://github.com/JaariReynolds/chess-front.git
 [submodule "ChessTestsBack"]
 	path = ChessTestsBack
 	url = https://github.com/JaariReynolds/ChessTests.git
